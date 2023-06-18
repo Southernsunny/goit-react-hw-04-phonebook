@@ -1,6 +1,6 @@
 import styled from '@emotion/styled';
 
-export const Container = styled.form`
+export const FormContact = styled.form`
   display: flex;
   flex-wrap: wrap;
   width: 500px;

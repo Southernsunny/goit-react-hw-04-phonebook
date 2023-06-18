@@ -1,6 +1,6 @@
 import styled from '@emotion/styled';
 
-export const Container = styled.label`
+export const Label = styled.label`
   display: flex;
   align-items: center;
   justify-content: center;
@@ -9,7 +9,7 @@ export const Container = styled.label`
   gap: 15px;
 `;
 
-export const FilterInput = styled.input`
+export const Input = styled.input`
   height: 15px;
   width: 175px;
   padding: 5px;
